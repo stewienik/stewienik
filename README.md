@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @stewienik
+- 👀 I’m interested in improving my Python and programming skills
